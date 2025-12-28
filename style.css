@@ -125,7 +125,6 @@ button:active, button.pressed {
 }
 
 .equal {
-    grid-column: span 2;
     background-color: var(--primary);
     color: #fff !important;
     box-shadow: 5px 5px 10px var(--shadow-dark),
@@ -156,4 +155,5 @@ button:active, button.pressed {
         flex-direction: column;
         justify-content: center;
     }
+
 }
